@@ -25,7 +25,7 @@
     "prefer-stable": true,
     "extra": {
         "branch-alias": {
-            "dev-main": "1.x.dev"
+            "dev-main": "1.x-dev"
         }
     },
     "keywords": ["codeigniter4","mailer","axproo","library"],
