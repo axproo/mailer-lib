@@ -1,8 +1,7 @@
 {
     "name": "axproo/mailer-lib",
-    "description": "Service de messagerie universel basé sur CodeIgniter 4.",
+    "description": "Service de messagerie universel basé sur CI 4.",
     "type": "library",
-    "version": "1.0.1",
     "license": "MIT",
     "authors": [
         {
