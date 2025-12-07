@@ -1,0 +1,36 @@
+{
+    "name": "axproo/mailer-lib",
+    "description": "Service de messagerie universel basé sur CodeIgniter 4.",
+    "type": "library",
+    "version": "1.0.1",
+    "licence": "MIT",
+    "authors": [
+        {
+            "name": "Christian DJOMOU",
+            "email": "christian@axproo.com",
+            "homepage": "https://www.axproo.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.2",
+        "codeigniter4/framework": "^4.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Axproo\\Mailer\\": "src/"
+        }
+    },
+    "repositories": [],
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "extra": {
+        "branch-alias": {
+            "dev-main": "1.x.dev"
+        }
+    },
+    "keywords": ["codeigniter4","mailer","axproo","library"],
+    "config": {
+        "process-timeout": 0,
+        "sort-package": true
+    }
+}
