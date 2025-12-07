@@ -3,7 +3,7 @@
     "description": "Service de messagerie universel basé sur CodeIgniter 4.",
     "type": "library",
     "version": "1.0.1",
-    "licence": "MIT",
+    "license": "MIT",
     "authors": [
         {
             "name": "Christian DJOMOU",
